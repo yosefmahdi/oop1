@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+scikit-learn
+openai==0.28.0
+google-generativeai
+tiktoken
+python-docx
+requests
+PyPDF2
+pandas
+beautifulsoup4
+gunicorn
