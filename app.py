@@ -91,7 +91,7 @@ def ask():
     file_name = data.get('file_name')
 
     max_tokens = int(max_tokens)
-    word_limit = 600
+    word_limit = 670
 
     if not question:  # التأكد من وجود السؤال
         return jsonify({"error": "Please enter a message"}), 400
